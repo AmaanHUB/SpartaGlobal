@@ -50,5 +50,6 @@ These steps should work on any major Linux distribution if the following depende
 	`git remote add origin git@github.com:USER_NAME/Repo_name.git`
 * Upload all files:
 	* `git push -u origin main` or `git push` if everything has been set up
+	* `git push` can be used every time afterwards
 * After making a change, feel free to commit it and then push to the repository on GitHub.
 * N.B. Don't need to do initialisation if cloning straight from GitHub, and just need  to do the origin step
