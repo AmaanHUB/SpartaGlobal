@@ -1,5 +1,9 @@
 # SpartaGlobal
-Notes for learning during the DevOps course (Engineering74)
+
+Notes during the DevOps Engineering Course
+
+Covers:
+* Git and GitHub
 
 
-Testing
+
