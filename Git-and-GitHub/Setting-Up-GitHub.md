@@ -1,3 +1,5 @@
+# Setting up Git and GitHub: A Beginners Guide
+
 ## Git
 
 * Run git (Linux/Mac) or gitbash (Windows)
