@@ -32,7 +32,7 @@ These steps should work on any major Linux distribution if the following depende
 * When you get RSA Key fingerprint question, press <Enter> on `yes`
 * If you decide to create the ssh-key in the directory of your repository, make sure you hide or move the id_rsa and id_rsa.pub to another folder
 
-## Repos
+## Repository
 
 * Go to [Github](www.github.com) to make a new repository
 * Open previously made repository in bash etc.
