@@ -7,30 +7,30 @@
 
 Each project can be completely separate from BAU
 
-![](Project-Cycle.png "Project Cycle")
+![Project cycle](Project-Cycle.png "Project Cycle")
 
-![](Triple-Constraint.png "Triple Constraint")
+![Triple Constraint](Triple-Constraint.png "Triple Constraint")
 //TODO explain some of this with examples perhaps
 
 
-![](POPIT-Model.png "The POPIT Model")
+![POPIT](POPIT-Model.png "The POPIT Model")
 //TODO explain some of this with examples perhaps
 
 
 ## Software Development Lifecycles
 * Waterfall
-	* ![](Waterfall-Model.png "Waterfall Model")
+	* ![Waterfall](Waterfall-Model.png "Waterfall Model")
 * V-Model
-	* ![](V-Model.png "V-Model")
+	* ![V-Model](V-Model.png "V-Model")
 * Agile (currently trending)
-	* ![](Agile-Model.png "Agile Model")
+	* ![Agile](Agile-Model.png "Agile Model")
 	* SCRUM framework works well within the Agile model
 		* Way of timeboxing and planning what things to do and see what have been done, basically time management
 
 
 ## Management Plans and SDLCs (Software Development Life Cycle)
 
-![](Project-Lifecycle "Project-Lifecycle")
+![Project Lifecycle](Project-Lifecycle "Project-Lifecycle")
 
 ## Attributes of Mature Teams
 * Co-located
@@ -58,7 +58,7 @@ Each project can be completely separate from BAU
 	* Stakeholders/Communication Plan
 
 * Examples of Basic Techniques for Analysis:
-	* ![](Basic-Analysis-Techniques.png)
+	* ![Basic Analysis](Basic-Analysis-Techniques.png "Basic Analysis Techniques")
 
 **All risks are based on ROI (return on investment)**
 
@@ -97,7 +97,7 @@ Include:
 * Customers
 
 See below for a power/interest grid which can show which stakeholders will be most actively involved in a project based upon how much power they have:
-![](Power-Interest-Grid.png)
+![Power Interest](Power-Interest-Grid.png "Power Interest Grid")
 
 ### Stakeholder Attitudes
 * Champion
