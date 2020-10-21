@@ -14,7 +14,7 @@
 ## Levels of Intellectual Skills
 * Thinking triangle, Benjamin Blooms
 	* Six levels of thinking skills
-	
+
 ![](https://mdm35.files.wordpress.com/2009/07/the-thinking-triangle.jpg "The Thinking Triangle")
 ## Critical thinking Process
 3 steps:
@@ -58,16 +58,16 @@ A way of learning that is based upon asking questions.
 ![](The-Enquiry-Cycle.png "The Enquiry Cycle")
 
 **What kinds of questions might we ask when thinking critically?:**
-	* What is the source of the evidence?
-	* What kinds of claims are being made?
-	* Where is the evidence for these claims?
-	* What are the strenghts and weaknesses?
-	* How clear are the points?
-	* Is it a balanced argument?
-	* Are there any underlying themes?
-	* Do we understand the background?
-	* Are the examples good?
-	* etc.
+* What is the source of the evidence?
+* What kinds of claims are being made?
+* Where is the evidence for these claims?
+* What are the strenghts and weaknesses?
+* How clear are the points?
+* Is it a balanced argument?
+* Are there any underlying themes?
+* Do we understand the background?
+* Are the examples good?
+* etc.
 
 ## What is an argument?
 
