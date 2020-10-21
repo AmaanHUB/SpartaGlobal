@@ -14,6 +14,7 @@
 ## Levels of Intellectual Skills
 * Thinking triangle, Benjamin Blooms
 	* Six levels of thinking skills
+	
 ![](https://mdm35.files.wordpress.com/2009/07/the-thinking-triangle.jpg "The Thinking Triangle")
 ## Critical thinking Process
 3 steps:
