@@ -12,9 +12,9 @@
 * Responding objectively
 
 ## Levels of Intellectual Skills
-* Thinking triangle, Benjamin Blooms **(add picture here, see chat as it shows them in detail)**
+* Thinking triangle, Benjamin Blooms
 	* Six levels of thinking skills
-![](https://mdm35.files.wordpress.com/2009/07/the-thinking-triangle.jpg "The Thinking Triange")
+![](https://mdm35.files.wordpress.com/2009/07/the-thinking-triangle.jpg "The Thinking Triangle")
 ## Critical thinking Process
 3 steps:
 * **Identify:**
