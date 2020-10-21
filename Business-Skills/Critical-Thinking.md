@@ -14,7 +14,7 @@
 ## Levels of Intellectual Skills
 * Thinking triangle, Benjamin Blooms **(add picture here, see chat as it shows them in detail)**
 	* Six levels of thinking skills
-
+![](https://mdm35.files.wordpress.com/2009/07/the-thinking-triangle.jpg "The Thinking Triange")
 ## Critical thinking Process
 3 steps:
 * **Identify:**
@@ -103,4 +103,26 @@ See the poster below to see the most common ones:
 ![](https://yourlogicalfallacyis.com/images/slides/FallaciesPosterHigherRes.jpg "Common Fallacies Poster")
 
 ## The Art Of Persuasion
+### The Three Pillars of Rhetoric
+* Ethos - Appealing through authority or credibility
+* Pathos - Appealing through emotional empathy
+* Logos - Appealing through logic and reasoning
+
+
+## Important Skills for Debating
+DO:
+	* Be prepared
+	* Stay calm
+	* Speak clearly and confidently
+	* Keep language simple
+	* Active listening
+
+DON'T:
+	* Falsify or alter evidence
+	* Publicly disagree with the decision
+	* _Ad hominem_
+	* Act aggressively or offensively
+	* Interrupt others
+	* Disagree with facts or obvious truths
+
 
