@@ -31,7 +31,7 @@ These 'hats' can be used to express different modes of thinking within a group:
 * Black Hat = Judgement / Spot diffiulties and dangers
 * Red Hat = Intuition / Likes and Dislikes / Feelings
 * Green Hat = Creativity / Possibilites / Alternatives / New Ideas
-* Blue Hat = Thinking Process / Ensures Six Thinking Hats guideliness are observed
+* Blue Hat = Thinking Process / Ensures Six Thinking Hats guidelines are observed
 
 ## Dealing with Conflict
 * Take time to understand the situation
