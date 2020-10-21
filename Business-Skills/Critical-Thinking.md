@@ -104,9 +104,9 @@ See the poster below to see the most common ones:
 
 ## The Art Of Persuasion
 ### The Three Pillars of Rhetoric
-* Ethos - Appealing through authority or credibility
-* Pathos - Appealing through emotional empathy
-* Logos - Appealing through logic and reasoning
+* **Ethos** - Appealing through authority or credibility
+* **Pathos** - Appealing through emotional empathy
+* **Logos** - Appealing through logic and reasoning
 
 
 ## Important Skills for Debating
