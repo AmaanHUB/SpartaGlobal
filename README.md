@@ -7,6 +7,6 @@ Covers:
 * Business Skills
 	* Time and Task Management
 	* Communication
-
+	* Critical Thinking
 
 
