@@ -8,5 +8,6 @@ Covers:
 	* Time and Task Management
 	* Communication
 	* Critical Thinking
+	* Project Environment
 
 
