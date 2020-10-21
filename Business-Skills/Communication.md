@@ -18,10 +18,9 @@ Communication is a vital tool in the workplace and encompasses everything we do,
 * Geographical
 * Cultural
 
-//Probably get rid of this section of subsume into another or add exploiting bias in the workplace
 ## Cognitive Biases
 
-// Can add examples here maybe?
+These can include things like anchoring (relying too heavy on the first piece of information) and Dunning-Kreuger etc. There appears to be a large overlap with logical fallacies, _see Critical-Thinking.md_
 
 ## Colour Hats
 
