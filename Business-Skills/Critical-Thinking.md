@@ -111,18 +111,18 @@ See the poster below to see the most common ones:
 
 ## Important Skills for Debating
 DO:
-	* Be prepared
-	* Stay calm
-	* Speak clearly and confidently
-	* Keep language simple
-	* Active listening
+* Be prepared
+* Stay calm
+* Speak clearly and confidently
+* Keep language simple
+* Active listening
 
 DON'T:
-	* Falsify or alter evidence
-	* Publicly disagree with the decision
-	* _Ad hominem_
-	* Act aggressively or offensively
-	* Interrupt others
-	* Disagree with facts or obvious truths
+* Falsify or alter evidence
+* Publicly disagree with the decision
+* _Ad hominem_
+* Act aggressively or offensively
+* Interrupt others
+* Disagree with facts or obvious truths
 
 
