@@ -7,17 +7,17 @@ pwd
 
 * How to create a directory?
 ```
-mkdir __directory-name__
+mkdir directory-name
 ```
 
 * How to create a file?
 ```
-touch __name-of-file__
+touch name-of-file
 ```
 
 * Change directory
 ```
-cd __directory-name__
+cd directory-name
 ```
 
 * Who am I?
@@ -30,14 +30,14 @@ whoami
 ls
 ```
 ```
-ls __directory-name__
+ls directory-name
 ```
 
 * Move or rename file
 ```
-mv __file-name__ __new-file-name__
+mv file-name new-file-name
 ```
 ```
-mv __file-name__ __directory/__
+mv file-name directory/
 ```
 
