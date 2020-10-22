@@ -16,16 +16,28 @@ touch __name-of-file__
 ```
 
 * Change directory
-``` cd __directory-name__```
+```
+cd __directory-name__
+```
 
 * Who am I?
-```whoami```
+```
+whoami
+```
 
 * List in directory
-``` ls ```
-``` ls ___directory-name__```
+```
+ls
+```
+```
+ls __directory-name__
+```
 
 * Move or rename file
-``` mv __file-name__ __new-file-name__```
-``` mv __file-name__ ___directory/__```
+```
+mv __file-name__ __new-file-name__
+```
+```
+mv __file-name__ __directory/__
+```
 
