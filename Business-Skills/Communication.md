@@ -2,6 +2,12 @@
 
 Communication is a vital tool in the workplace and encompasses everything we do, from body language to the tone of our voice. The various ways of expressing oneself can be interpreted in various ways and can be used to get one's point across or even helping change someone's mind. **"Delivery affects the message"**
 
+## CMADE
+* Confidence
+* Manner
+* Attitude
+* Dilligence
+* Enthusiasm
 
 ## How May Poor Communication Affect Business?
 *  Loss of potential business
