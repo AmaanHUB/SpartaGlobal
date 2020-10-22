@@ -18,7 +18,7 @@ These steps should work on any major Linux distribution if the following depende
 	 `ssh-keygen -t rsa -b 4096 -C "your_email@email.com" `
 	 N.B. If just using ` ssh-keygen `, without the arguments, defaults to 2048 and RSA anyway (2048 if enough)
 * Make a passphase
-* Ensure you have git-agent `eval $(ssh-agent -s)`, or ssh-agent running in the background set up *re-explain this bit*
+* `eval $(ssh-agent -s)` to make ssh-agent run in the background. This caches the ssh password after you use it for a set amount of time, so that you don't have to type it constantly when pushing to GitHub.
 * Add the key `ssh-add id_rsa.pub`:
 	* Note that the keys by default are within the ~/.ssh/ directory, so unless you are already in the .ssh directory, use the filepath .e.g. `ssh-add ~/.ssh/id_rsa.pub`
 * Go to your [Github](www.github.com) and go to `Settings`
