@@ -55,6 +55,7 @@ Developed as a parallel thinking process, see _Communication.md_ for more detail
 A way of learning that is based upon asking questions.
 
 ### The Enquiry Cycle
+
 ![](The-Enquiry-Cycle.png "The Enquiry Cycle")
 
 **What kinds of questions might we ask when thinking critically?:**
