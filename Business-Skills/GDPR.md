@@ -57,7 +57,8 @@ General Data Protection Regulation (2018) gives all individuals across the EU pr
 * Data minimisation
 * Storage limitation
 * Integrity and confidentiality
-* __add more here__
+* Accurate and up to data
+* Accountability
 
 ## Other Obligations
 * Assign Data Protection Officer (DPO)
@@ -83,6 +84,15 @@ General Data Protection Regulation (2018) gives all individuals across the EU pr
 
 
 # Cybersecurity
+
+There are many groups of people that may want to gain access to data:
+
+* Online Criminals
+* Foreign Governments
+* Hackers (Untageted, agents of chaos)
+* Political Activists
+* Terrorist Organisatoins
+* Malicious Insiders
 
 
 

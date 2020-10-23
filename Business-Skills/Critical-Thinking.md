@@ -56,7 +56,7 @@ A way of learning that is based upon asking questions.
 
 ### The Enquiry Cycle
 
-![image](The-Enquiry-Cycle.png)
+![](Images/The-Enquiry-Cycle.png)
 
 **What kinds of questions might we ask when thinking critically?:**
 * What is the source of the evidence?
