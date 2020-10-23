@@ -95,8 +95,6 @@ There are many groups of people that may want to gain access to data:
 * Malicious Insiders
 
 
-
-*Add stuff remaining parts here*
 ## Types of Attack
 * Vishing
 	* Voice Phishing
